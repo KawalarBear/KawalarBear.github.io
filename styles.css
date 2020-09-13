@@ -92,3 +92,6 @@ section{
       display:none;
       width:0;
   }
+body{
+    overflow-x:hidden;
+}
