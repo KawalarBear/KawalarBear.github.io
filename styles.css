@@ -89,6 +89,7 @@ section{
       font-size: 40px;
       letter-spacing: .25px;
       color: white;
+      position:relative;
 
   }
   ::-webkit-scrollbar{
