@@ -45,9 +45,9 @@ section{
 }
 .headline{
     position:absolute;
-    top:70%;
+    top:85%;
     left:10%;
-    font-size:80px;
+    font-size:60px;
     transform: translate(-20%, -70%);
     color:white;
     z-index: 3;
@@ -86,7 +86,10 @@ section{
     width: 0%;
   }
   .random{
-      font-size: 50px;
+      font-size: 40px;
+      letter-spacing: .25px;
+      color: white;
+
   }
   ::-webkit-scrollbar{
       display:none;
