@@ -48,10 +48,11 @@ section{
     position:absolute;
     top:85%;
     left:10%;
-    font-size:60px;
     transform: translate(-20%, -70%);
     color:white;
     z-index: 3;
+    font-size: 50px;
+    font-size-adjust:auto;
     
 }
 .hero::after {
@@ -87,10 +88,13 @@ section{
     width: 0%;
   }
   .random{
+
       font-size: 40px;
       letter-spacing: .25px;
       color: white;
       position:relative;
+      margin: auto;
+      text-align: center;
 
 
   }
